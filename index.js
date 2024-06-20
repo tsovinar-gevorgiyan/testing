@@ -1,1 +1,3 @@
-console.log("HELLOW WORLD")
+let x = 5
+let y = 7
+console.log(x + y)
